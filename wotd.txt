@@ -1,1 +1,1 @@
-ductile -- able to be drawn into long threads/pipes (cf. malleable)
+ductile -- shapable by pulling (drawing out) into threads (cf. malleable)
