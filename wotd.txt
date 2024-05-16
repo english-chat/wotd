@@ -1,1 +1,1 @@
-tmesis (n) - The insertion of a word or group of words between the parts of a compound word, e.g., "Be thou ware" for "beware".
+operand (noun-Mathematics) - a quantity or function upon which a mathematical or logical operation is performed.
